@@ -14,6 +14,19 @@ At first you will see a page containing a login button. Login with Spotify by cl
 
 <img src="https://user-images.githubusercontent.com/83572390/177969662-311da881-cf4a-49cb-b153-65b7eb8ff4c4.png" width="75%"><img src="https://user-images.githubusercontent.com/83572390/177979126-3a407e1f-77f5-4e64-afb9-889f63e3196b.png" height="400" width="25%">
 
+If you click on "See All" link at the right corner of each segment you will see :
+
+For Top Artists :
+  
+<img src="https://user-images.githubusercontent.com/83572390/177982451-3fb4d3a0-280b-4bc8-8848-39664e6b0334.png" width="33%"><img src="https://user-images.githubusercontent.com/83572390/177982458-77ffe36b-d257-4b3a-ae6e-ae2a5b10af55.png" width="33%"><img src="https://user-images.githubusercontent.com/83572390/177982460-361b3fbb-613a-4ffb-9f27-2371c422de51.png" width="33%">
+
+For Top Tracks :
+
+<img src="https://user-images.githubusercontent.com/83572390/177982893-409a1ec3-df9b-4074-a5a6-d3f62b276908.png" width="33%"><img src="https://user-images.githubusercontent.com/83572390/177982897-fa345863-3818-4a45-8da2-c34f3313eb72.png" width="33%"><img src="https://user-images.githubusercontent.com/83572390/177982901-a3070a09-14bc-4e27-ab6a-403408108ad6.png" width="33%">
+
+
+
+
 
 
 
